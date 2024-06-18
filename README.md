@@ -10,7 +10,7 @@
 </p>
 
 <p >
-    <b>Hope you'll enjoy this pretty simple code projects.</b>
+    <b>Hope you'll enjoy these pretty simple code projects.</b>
 </p>
 
 <p >
